@@ -52,7 +52,7 @@ import "./globals.css";
 import { STRINGS } from "@/utils/string";
 import ReduxProvider from "@/store/ReduxProvider";
 import { Toaster } from "react-hot-toast";
-import Header from "@/components/header"; // ✅ ADD THIS
+import Header from "@/components/header";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
