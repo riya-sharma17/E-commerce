@@ -20,7 +20,7 @@ import ProductsCards from "@/components/products";
 export default function HomePage() {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <HeroSection />  
       <ProductsCards />
     </>
